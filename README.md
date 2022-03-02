@@ -1,4 +1,4 @@
-# SimpleMemoryPool
+# SimpleAllocator
 
 ## 简介
 
